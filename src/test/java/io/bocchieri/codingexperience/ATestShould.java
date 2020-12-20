@@ -10,3 +10,4 @@ public class ATestShould {
 		assertEquals(0, new Solution().solution());
 	}
 }
+
